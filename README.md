@@ -1,17 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <br>
-     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
-</div>
+<H1 align="center">Farid Syifa Arrahim</H1> 
+<p align="center">Web Designer | Programmer | Student | Santri | Designer Grafis</p>
 
-# Farid Syifa Arrahim 
-Web Designer | Programmer | Student | Santri | Designer Grafis
-
-# Hi, My name is Farid Syifa Arrahim.
+# My Profiles.
 
 My name is Farid Syifa Arrahim, born in Jakarta, May 14, 2004, my address is Jalan Distance Kulon, Jogoroto District, Jombang Regency, East Java, Indonesia. I am the eldest of three children,
 
@@ -21,7 +11,7 @@ For more details see <a href="github.com/myayang" target="blank">My Profile</a> 
 
 ###### <b><i>Terjemahan</i></b>
 
-# Hai, Nama saya Farid Syifa Arrahim.
+# Profil Saya.
 
 Nama saya Farid Syifa Arrahim, lahir di Jakarta, 14 Mei 2004, saya beralamat di Jalan Jarak Kulon, Kecamatan Jogoroto, Kabupaten Jombang, Jawa Timur, Indonesia. Saya adalah anak pertama dari tiga bersaudara.
 
